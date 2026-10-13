@@ -1,0 +1,11 @@
+beautifulsoup4>=4.12
+cx-Oracle>=8.3
+feedparser>=6.0
+httpx>=0.27
+numpy>=1.26
+pandas>=2.1
+psycopg[binary]>=3.1
+psycopg2-binary>=2.9
+python-dateutil>=2.8
+requests>=2.31
+SQLAlchemy>=2.0

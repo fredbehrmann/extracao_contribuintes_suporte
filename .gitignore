@@ -1,0 +1,32 @@
+# Ambientes e configuração local
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Dados gerados pelas execuções
+cache_monitoramento_noticias/
+saida_noticias/
+logs/
+logs_*/
+*.log
+*.lock
+*.pkl
+
+# Editores e sistema operacional
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
